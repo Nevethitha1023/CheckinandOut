@@ -10,17 +10,17 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="0"
-        android:textSize="100dp" />
+        android:textSize="100sp" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="35dp"
+        android:layout_height="59dp"
         android:text="Check In" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="64dp"
         android:text="Check Out" />
 </LinearLayout>
